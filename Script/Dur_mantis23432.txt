@@ -1,0 +1,3 @@
+-- Juandi
+-- Mantis 244335
+DELETE FROM `prueba`.`actividades` WHERE (`id_actividad` = '9');
