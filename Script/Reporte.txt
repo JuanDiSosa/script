@@ -1,9 +1,0 @@
-Se ejecitaron los siguientes scripts:
-Script ejecutados en Durazno
-18831_Dur__25072019.sql
--- Juandi
--- Mantis 244335
-
-DELETE FROM `prueba`.`actividades` WHERE (`id_actividad` = '9');
-
-INSERT INTO actividades (id_actividad, desc_actividad) VALUES (9, 'GoldGYM');
